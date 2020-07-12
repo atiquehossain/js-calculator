@@ -1,0 +1,5 @@
+const numberButtons = document.querySelectorAll('[data-number]')
+const numberButtons = document.querySelectorAll('[data-operation]')
+const numberButtons = document.querySelector('[data-equals]')
+const numberButtons = document.querySelector('[data-delete]')
+const numberButtons = document.querySelector('[data-all-clear]')
